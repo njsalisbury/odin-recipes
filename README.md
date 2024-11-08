@@ -10,17 +10,17 @@ Objectives:
  - Make use of:
     - standard HTML boilerplate
     - header tags
-    - paragraph tags &lt;p&lt;&lt;/p&lt;
-    - strong tags &lt;strong&lt;&lt;/strong&lt;
-    - emphasis tags &lt;em&lt;&lt;/em&lt;
-    - anchor tags for links &lt;a&lt;&lt;/a&lt;
+    - paragraph tags &lt;p&gt;&lt;/p&gt;
+    - strong tags &lt;strong&gt;&lt;/strong&gt;
+    - emphasis tags &lt;em&gt;&lt;/em&gt;
+    - anchor tags for links &lt;a&gt;&lt;/a&gt;
        - hypertext reference href="" attribute
-    - image tags &lt;img&lt;
+    - image tags &lt;img&gt;
        - source src="" attribute
        - alternative text alt="" attribute
-    - ordered lists &lt;ol&lt;&lt;/ol&lt;
-    - unordered lists &lt;ul&lt;&lt;/ul&lt;
-    - list item tags within the ordered and unordered lists &lt;li&lt;&lt;/li&lt;
+    - ordered lists &lt;ol&gt;&lt;/ol&gt;
+    - unordered lists &lt;ul&gt;&lt;/ul&gt;
+    - list item tags within the ordered and unordered lists &lt;li&gt;&lt;/li&gt;
     
 Perhaps in the Future Add:
  - Whole Wheat Bread
