@@ -1,0 +1,34 @@
+body {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  color: #a31b1b;
+}
+
+h2 {
+  color: #157a1e;
+  background-color: #04263d;
+  width: 160px;
+  text-align: center;
+}
+
+.description {
+  width: 500px;
+}
+
+.navigation {
+  background-color: rgb(26, 39, 49);
+  width: 400px;
+  font-size: 22px;
+  text-align: left;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: #0c6a86;
+}
+
+.navigation ul {
+  list-style: none;
+}
