@@ -1,9 +1,32 @@
 body {
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #bdbdbd;
 }
 
 h1 {
   color: #a31b1b;
+}
+
+.navigation {
+  background-color: rgb(26, 39, 49);
+  width: 500px;
+  font-size: 22px;
+  text-align: left;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: #0c6a86;
+  font-family:'Courier New', Courier, monospace;
+}
+
+.navigation ul {
+  list-style: none;
+}
+
+img {
+  width: 50%;
+  height: 50%;
 }
 
 h2 {
@@ -17,18 +40,12 @@ h2 {
   width: 500px;
 }
 
-.navigation {
-  background-color: rgb(26, 39, 49);
-  width: 400px;
-  font-size: 22px;
-  text-align: left;
+.ingredients,
+.steps {
+  color: #3f5d3f;
+  color: #076817;
 }
 
-.navigation a {
-  text-decoration: none;
-  color: #0c6a86;
-}
-
-.navigation ul {
-  list-style: none;
+.steps {
+  width: 600px;
 }
